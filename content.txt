@@ -1,0 +1,13 @@
+Pen tool exercises
+The pen tool is what I use 90% of the time when I am in Photoshop. I practice using it by reproducing objects from my hobbies. Below are some icons that I created.
+
+Flat icons
+I wanted to challenge myself by creating a set of flat icons. The theme for this set is items found from skydiving.
+
+Side projects
+I am always trying to find things to design. It could be redesigning a friend's website or playing around with some app ideas. Below are some projects that I've been working on.
+
+Musician's website
+I always find myself around musicians because I love talking to them about their creative process. Although each musician has his/her own process, I noted that they all have the same struggle: updating and maintaining their websites. 
+
+I wanted to find a way to display a musician's work while making it easy for a visitor to learn more about the musician. I designed a single page layout that would show everything to the visitor, while forcing the musician to condense their content. I couldn't design anything without content, so I asked my friends Danielle, an opera singer, and Daren, a music producer, for some of their work. With the help of Bootstrap, this is what I came up with.
